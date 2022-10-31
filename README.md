@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  
- [![raindrops-0199's GitHub stats](https://github-readme-stats.vercel.app/api?username=raindrops-0199&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+ [![raindrops-0199's GitHub stats](https://github-readme-stats.vercel.app/api?username=raindrops-0199&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raindrops-0199&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raindrops-0199&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
