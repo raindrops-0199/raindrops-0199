@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px"/> About Me
 
-👨‍💻 Backend Developer & AI Enthusiast from Singapore 🌏
+👨‍💻 Backend Developer & AI Enthusiast from China 🌏
 
 💡 **Focused on:** Building scalable backend systems and AI-powered applications
 
@@ -109,26 +109,34 @@ Here are some ideas to get you started:
 </div>
 
 ```mermaid
-%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#ff6b6b', 'primaryTextColor':'#fff', 'primaryBorderColor':'#ff6b6b', 'lineColor':'#f8d866', 'secondaryColor':'#a9fef7', 'tertiaryColor':'#82aaff'}}}%%
-
-mindmap
-  root((raindrops))
-    AI Development
-      LLM Integration
-      LangChain Applications
-      PyTorch Models
-    Backend Architecture
-      Microservices
-      Spring Ecosystem
-      API Design
-    DevOps
-      Container Orchestration
-      CI/CD Pipelines
-      Cloud Infrastructure
-    Open Source
-      Contributing
-      Learning
-      Sharing
+%%{init: {'theme':'dark'}}%%
+graph LR
+    A[raindrops] --> B[AI Development]
+    A --> C[Backend Architecture]
+    A --> D[DevOps]
+    A --> E[Open Source]
+    
+    B --> B1[LLM Integration]
+    B --> B2[LangChain]
+    B --> B3[PyTorch]
+    
+    C --> C1[Microservices]
+    C --> C2[Spring]
+    C --> C3[API Design]
+    
+    D --> D1[Docker/K8s]
+    D --> D2[CI/CD]
+    D --> D3[Cloud]
+    
+    E --> E1[Contributing]
+    E --> E2[Learning]
+    E --> E3[Sharing]
+    
+    style A fill:#ff6b6b,stroke:#fff,stroke-width:3px,color:#fff
+    style B fill:#a9fef7,stroke:#fff,stroke-width:2px,color:#000
+    style C fill:#a9fef7,stroke:#fff,stroke-width:2px,color:#000
+    style D fill:#a9fef7,stroke:#fff,stroke-width:2px,color:#000
+    style E fill:#a9fef7,stroke:#fff,stroke-width:2px,color:#000
 ```
 
 <div align="center">
