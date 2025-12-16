@@ -112,9 +112,7 @@ Here are some ideas to get you started:
 %%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#ff6b6b', 'primaryTextColor':'#fff', 'primaryBorderColor':'#ff6b6b', 'lineColor':'#f8d866', 'secondaryColor':'#a9fef7', 'tertiaryColor':'#82aaff'}}}%%
 
 mindmap
-  root
-((raindrops))
-
+  root((raindrops))
     AI Development
       LLM Integration
       LangChain Applications
