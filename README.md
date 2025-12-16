@@ -22,94 +22,132 @@ Here are some ideas to get you started:
 
  <div align="center">
 
-# 👋 你好，我是 raindrops-0199
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hey, I'm raindrops-0199
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9FFF&center=true&vCenter=true&width=435&lines=全栈开发者+%F0%9F%92%BB;代码爱好者+%E2%9C%A8;持续学习中+%F0%9F%93%9A" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Backend+Developer+%7C+AI+Enthusiast;Java+%2B+Python+%2B+C%2B%2B;Building+the+Future+with+Code+%F0%9F%9A%80" alt="Typing SVG" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 </div>
 
----
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px"/> About Me
 
-## 🚀 关于我
+👨‍💻 Backend Developer & AI Enthusiast from Singapore 🌏
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "raindrops"
-        self.location = "🌏 China"
-        self.current_focus = "AI & 后端开发"
-        self.interests = ["深度学习", "Web开发", "技术探索"]
-        self.life_philosophy = "代码改变世界 ✨"
-    
-    def get_skills(self):
-        return {
-            "languages": ["Java", "Python"],
-            "backend": ["Spring", "FastAPI"],
-            "ai_ml": ["PyTorch", "LangChain"],
-            "always_learning": True
-        }
+💡 **Focused on:** Building scalable backend systems and AI-powered applications
+
+🔧 **Tech Stack:** Java • Python • C++ | Spring • FastAPI | PyTorch • LangChain
+
+⚡ **Daily Tools:** Docker • Kubernetes • Vim • Linux
+
+🌱 **Currently:** Exploring LLM integration and microservices architecture
+
+<div align="center">
+
+## 🛠️ Tech Arsenal
+
+### 💻 Languages
+<p>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+</p>
+
+### 🚀 Frameworks & Tools
+<p>
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+    <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
+</p>
+
+### 🗄️ Databases & Infrastructure
+<p>
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+</p>
+
+### ⚡ Dev Tools
+<p>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" />
+</p>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<div align="center">
+
+## 📊 GitHub Analytics
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=raindrops-0199&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFF" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=raindrops-0199&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=FFF" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raindrops-0199&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFF" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=raindrops-0199&theme=react-dark&hide_border=true&area=true" />
+
+</div>
+
+<div align="center">
+
+## 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=raindrops-0199&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<div align="center">
+
+## 🎯 Current Focus
+
+</div>
+
+```mermaid
+mindmap
+  root((raindrops))
+    AI Development
+      LLM Integration
+      LangChain Applications
+      PyTorch Models
+    Backend Architecture
+      Microservices
+      Spring Ecosystem
+      API Design
+    DevOps
+      Container Orchestration
+      CI/CD Pipelines
+      Cloud Infrastructure
+    Open Source
+      Contributing
+      Learning
+      Sharing
 ```
 
-## 🛠️ 技术栈
-
 <div align="center">
 
-### 编程语言
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+## 🔥 What I'm Up To
 
-### 后端框架
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-### AI & 机器学习
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
-
-### 数据库 & 中间件
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-### 工具 & 平台
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Vim](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white)
+🤖 **Building AI-powered applications** with LangChain and LLMs  
+🏗️ **Designing scalable microservices** with Spring Boot  
+📊 **Exploring ML model deployment** and optimization  
+🐳 **Containerizing everything** with Docker & K8s  
+🌟 **Contributing to open source** projects  
 
 </div>
 
-## 📊 GitHub 统计
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=raindrops-0199&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=raindrops-0199&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" />
+## 📫 Let's Connect
 
-</div>
-
-<div align="center">
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raindrops-0199&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-
-</div>
-
-## 🎯 最近关注
-
-- 🤖 探索 AI 应用开发和 LLM 集成
-- 🏗️ 学习微服务架构和分布式系统
-- 📊 研究机器学习模型的工程化部署
-- 🔧 优化后端性能和系统设计
-- 🌟 参与开源项目贡献
-
-## 📫 联系方式
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/raindrops-0199)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raindrops-0199)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lkarry0199@gmail.com)
 
 </div>
@@ -118,18 +156,14 @@ class Developer:
 
 <div align="center">
 
-### 💭 每日一言
+### 💡 Random Dev Quote
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-</div>
-
-<div align="center">
-
-**感谢访问我的主页！** 👋
+### 📈 Profile Views
 
 ![Visitor Count](https://profile-counter.glitch.me/raindrops-0199/count.svg)
 
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="wave" />
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 </div>
