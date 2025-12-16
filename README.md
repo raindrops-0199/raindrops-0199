@@ -105,39 +105,9 @@ Here are some ideas to get you started:
 <div align="center">
 
 ## 🎯 Current Focus
-
 </div>
 
-```mermaid
-%%{init: {'theme':'dark'}}%%
-graph LR
-    A[raindrops] --> B[AI Development]
-    A --> C[Backend Architecture]
-    A --> D[DevOps]
-    A --> E[Open Source]
-    
-    B --> B1[LLM Integration]
-    B --> B2[LangChain]
-    B --> B3[PyTorch]
-    
-    C --> C1[Microservices]
-    C --> C2[Spring]
-    C --> C3[API Design]
-    
-    D --> D1[Docker/K8s]
-    D --> D2[CI/CD]
-    D --> D3[Cloud]
-    
-    E --> E1[Contributing]
-    E --> E2[Learning]
-    E --> E3[Sharing]
-    
-    style A fill:#ff6b6b,stroke:#fff,stroke-width:3px,color:#fff
-    style B fill:#a9fef7,stroke:#fff,stroke-width:2px,color:#000
-    style C fill:#a9fef7,stroke:#fff,stroke-width:2px,color:#000
-    style D fill:#a9fef7,stroke:#fff,stroke-width:2px,color:#000
-    style E fill:#a9fef7,stroke:#fff,stroke-width:2px,color:#000
-```
+
 
 <div align="center">
 
