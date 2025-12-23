@@ -99,13 +99,6 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-## 🎯 Current Focus
-</div>
-
-
-
-<div align="center">
-
 ## 🔥 What I'm Up To
 
 🤖 **Building AI-powered applications** with LangChain and LLMs  
